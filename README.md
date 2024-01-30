@@ -1,2 +1,9 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Article: [The Grug Brained Developer](https://grugbrain.dev/)
+
+The main point of the article is to recognize your own stupidity before shooting yourself in the foot. Since we have a million different ways of building the same software as engineeers, it is too easy to introduce million different ways of unnecessary complexity that undermines the development process. The article offers advice on more specific topics such as Agile, Testing, and Refactoring, etc. as well based on this philosophy. 
+
+I don't have enough experience in the industry to assess whether his claims on specific topics like Agile is true or not, however, the general idea of thinking like a "self-aware smol brained" helped me in my programming journey. However, when I mean "small brained", I don't mean it in a self deprecating way. I mean it a light hearted, humorous way. The way you would way "Oh, I'm such a dummy." when you forget someting. 
+
+The most important benefit of this approach is that it allows me to put emphasis on keeping things simple, introducing as little abstractions as possible. When I come back to the same code written months ago, I have much easier time understanding because the number of things I have to keep in my head in one moment is small.
+
+Another important benefit is that it allows me to keep a positive mindset on failure. If you think you're already very smart. Failure, or struggling with things might damage your ego. You might not want to take on a challenging project, or a course, since it might break the facade. On the contrary, if I preemptively assume I'm dumb, a failure in a challenging course or subject won't really deter me, I'll just try to find ways my dumb little brain comprehend the subject matter. This way, I'll focus on putting more effort, or finding more effective ways of studying, and have a much higher proabability of succeeding.
