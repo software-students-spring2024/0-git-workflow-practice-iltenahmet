@@ -17,3 +17,6 @@ maintenance and architecture of the code is very important. When building a proj
 Testing the code - also crucial. There are many cases when software runs on specific systems, but not on others; when it is vulnerable to SQL injections, or other types of attacks. Testing the code is crucial, and should be done by a professional, or a group of professionals, who are responsible for the testing and maintenance of the code.
 
 Overall i think this article was written as a joke and should not be taken seriously. IT was difficult to pinpoint the serious parts vs ones that were written as a joke
+
+#### Ahmet's reply to Alex in defense of the original article
+I don't think the original article makes the claim that code maintenance and architectue is unimportant, or that testing is not crucial. In fact the part with the testing opens with "grug have love/hate relationship with test: test save grug many, many uncountable time and grug love and respect test". 
